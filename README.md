@@ -19,3 +19,17 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
 -Data Source: election_results.csv
 
 ## Election Audit Results
+  * There were a total of 369,711 votes cast in this years election
+  * 369,711 broken down by county:
+      -Jefferson county 10.5%   38,855 votes
+      -Denver county    82.8%  306,055 votes
+      -Arapahoe county   6.7%   24,801 votes
+  * Denver had the overwhelming largest number of votes
+  * Candidates recieving votes:
+      -Charles Casper Stockham  23.0%   85,213 votes
+      -Diana DeGette            73.8%  272,892 votes
+      -Raymon Anthony Doanne     3.1%   11,606 votes
+  * Diane DeGette won by a landslide with 272,892 votes. **73.8%**
+  
+## Election-Audit SUmmary
+This script 
