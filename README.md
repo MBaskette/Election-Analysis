@@ -13,5 +13,5 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
 8. Determine the winner of the election based on popular vote.
 
 ## Resources
--Data Source: election_result.csv
-Software:
+![image](https://user-images.githubusercontent.com/111661058/190241101-2f4c0000-f305-4757-b5bd-24408bd619cb.png)
+
