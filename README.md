@@ -11,3 +11,7 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
 6. Calculate the total number of votes each candidate recieved.
 7. Calculate the percentage of votes each candidate won.
 8. Determine the winner of the election based on popular vote.
+
+## Resources
+-Data Source: election_result.csv
+Software:
