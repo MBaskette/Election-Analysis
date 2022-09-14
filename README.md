@@ -13,6 +13,6 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
 8. Determine the winner of the election based on popular vote.
 
 ## Resources
-![image](https://user-images.githubusercontent.com/111661058/190241101-2f4c0000-f305-4757-b5bd-24408bd619cb.png)  ``3.6.1 ![image](https://user-images.githubusercontent.com/111661058/190241317-3b15dfe8-daff-4bc1-867f-3960321b5aa1.png)1.38.1
+![image](https://user-images.githubusercontent.com/111661058/190241101-2f4c0000-f305-4757-b5bd-24408bd619cb.png)  **3.6.1** ![image](https://user-images.githubusercontent.com/111661058/190241317-3b15dfe8-daff-4bc1-867f-3960321b5aa1.png)  **1.38.1**
 
 
