@@ -20,7 +20,7 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
 
 ## Election Audit Results
   * There were a total of 369,711 votes cast in this years election
-  * 369,711 broken down by county:
+  * 369,711 votes broken down by county:
       -Jefferson county 10.5%   38,855 votes
       -Denver county    82.8%  306,055 votes
       -Arapahoe county   6.7%   24,801 votes
@@ -32,4 +32,4 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
   * Diane DeGette won by a landslide with 272,892 votes. **73.8%**
   
 ## Election-Audit SUmmary
-This script 
+In the future, with this script, you wil be able to sort a .csv file for any local election. As you have seen this algorithm easily prints out all the information you need about current elections. You can also use the vote counts from each county to compare to population data to get voter turnout percentage. Then during the next election cycle you will know where to put your efforts during the campaign process. 
