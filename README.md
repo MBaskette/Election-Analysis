@@ -1,4 +1,5 @@
 # Election-Analysis
+![image](https://user-images.githubusercontent.com/111661058/190298041-26a1b5c4-b5b9-40ab-b888-427d0ac5cb9b.png)
 
 ## Project Overview
 A Colorado Board of election manager has asked me to create an algorithm to assist the confirmation and analysis on a recent local election in the great state of Colorado. In order to accomplish this task he has assigned Tom to help guide me through this process. THis process includes several tasks that must be completely in a timely manner.
@@ -31,5 +32,12 @@ A Colorado Board of election manager has asked me to create an algorithm to assi
       -Raymon Anthony Doanne     3.1%   11,606 votes
   * Diane DeGette won by a landslide with 272,892 votes. **73.8%**
   
-## Election-Audit SUmmary
-In the future, with this script, you wil be able to sort a .csv file for any local election. As you have seen this algorithm easily prints out all the information you need about current elections. You can also use the vote counts from each county to compare to population data to get voter turnout percentage. Then during the next election cycle you will know where to put your efforts during the campaign process. 
+## Election-Audit Summary
+In the future, with this script, you wil be able to sort a .csv file for any local election. As you have seen this algorithm easily prints out all the information you need about current elections given the .csv is set up the same way. If it's not set up the same then you would only have to change a few lines of code:
+
+```candidate_name = row[2]```
+   ```county_name = row[1]```  Changing these two row values [ ] to access the correct "Columns" in your .csv file should be all you need to do.
+
+
+You can also use the vote counts from each county to compare to population data to get voter turnout percentage. Then during the next election cycle you will know where to put your efforts during the campaign process. 
+
